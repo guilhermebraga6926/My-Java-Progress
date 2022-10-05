@@ -5,7 +5,7 @@ public class ParameterScope
        int min = 1;
        int max =99;
        int numero = getRandomNumer(min, max); // numero recebe - função que ge 
-       System.out.println(numero); 
+       System.out.println(numero); // printa o numero na tela
     }
 
 
